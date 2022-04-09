@@ -1,0 +1,2 @@
+model_checkpoint_path: "ut_cnn_model"
+all_model_checkpoint_paths: "ut_cnn_model"

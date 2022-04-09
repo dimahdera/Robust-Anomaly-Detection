@@ -1,0 +1,16 @@
+ Input Dimension : 28
+ No of units : 800
+ Number of Classes : 10
+ No of epochs : 20
+ Initial Learning rate : 0.001
+ Ending Learning rate : 0.0001
+ batch size : 50
+ KL term factor : 0.02
+---------------------------------
+ Total run time in sec : 165.98311028815806
+ Averaged Training  Accuracy : 1.0
+ Averaged Validation Accuracy : 0.9843000021576881
+ Averaged Training  error : -0.03612913368890683
+ Averaged Validation error : 0.024705487545579673
+---------------------------------
+---------------------------------

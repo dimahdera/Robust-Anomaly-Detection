@@ -1,0 +1,19 @@
+ Input Dimension : 28
+ No of Kernels : [32]
+ Number of Classes : 10
+ No of epochs : 20
+ Initial Learning rate : 0.001
+ Ending Learning rate : 0.0001
+ kernels Size : [5]
+ Max pooling Size : [2]
+ Max pooling stride : [2]
+ batch size : 50
+ KL term factor : 0.01
+---------------------------------
+ Total run time in sec : 19299.62417742191
+ Averaged Training  Accuracy : 0.9757666693131128
+ Averaged Validation Accuracy : 0.9783000007271767
+ Averaged Training  error : -32.481570688883465
+ Averaged Validation error : -31.299847717285157
+---------------------------------
+---------------------------------
